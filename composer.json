@@ -1,5 +1,5 @@
 {
-    "name": "bitfumes/contact",
+    "name": "bitfume/contact",
     "description": "this do something",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Bitfumes\\Contact\\": "src/"
+            "Bitfume\\Contact\\": "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Bitfumes\Contact\Mail;
+namespace Bitfume\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;

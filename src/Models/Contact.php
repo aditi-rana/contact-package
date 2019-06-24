@@ -1,6 +1,6 @@
 <?php
 
-namespace Bitfumes\Contact\Models;
+namespace Bitfume\Contact\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
