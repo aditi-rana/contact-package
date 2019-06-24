@@ -1,0 +1,19 @@
+{
+    "name": "bitfumes/contact",
+    "description": "this do something",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aditi Rana",
+            "email": "aditir@geekyants.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bitfumes\\Contact\\": "src/"
+        }
+    }
+}
